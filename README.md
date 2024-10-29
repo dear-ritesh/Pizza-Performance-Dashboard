@@ -51,7 +51,7 @@ Objectives
 
 - Total Sales: Reached ₹150,000, indicating consistent growth.
 
-- Top Seller: "Pepperoni Delight" generated $Y; consider promoting popular items and expanding toppings.
+- Top Seller: "Pepperoni Delight" generated ₹30,000; consider promoting popular items and expanding toppings.
 
 - Average Order Value: ₹2,500, with variations throughout the day; upselling strategies could enhance AOV.
 
