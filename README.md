@@ -30,7 +30,7 @@ A Power BI dashboard analyzing pizza sales data, built with SQL for data modelin
 - Power BI: For dashboard creation and data visualization.
   
 
-### Data Cleaning and Preparation
+### Data Cleaning and Preparationn
   
 1. Data Validation: Ensure accuracy and consistency in sales and product data.
 2. Missing Values: Address missing data points appropriately.
