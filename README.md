@@ -23,7 +23,7 @@ A Power BI dashboard analyzing pizza sales data, built with SQL for data modelin
 
 ### Tools
 
-- Excel: For initial data analysis and manipulation.[download here](https://microsoft.com)
+- Excel: For initial data analysis and manipulation.
 
 - SQL: For data modeling and querying.
 
@@ -75,7 +75,7 @@ Objectives
 
 4. Seasonal Promotions
 
-- Plan targeted offers during low sales months (e.g., February).
+- Plan targeted offers during low sales months.
 
 ### References 
 1. Books
